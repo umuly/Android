@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">UMULY</string>
+    <string name="app_name_desktop">Umuly</string>
+
+    <string name="required_text">required</string>
+    <string name="optional_text">optional</string>
+    <string name="login_username">Email address</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_name_surname">Name Surname</string>
+    <string name="register_button">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_pass">Forgot password?</string>
+
+    <string name="login_empty_value_error">Please enter a valid username and/or password.</string>
+    <string name="login_error">Sorry your username and/or password are incorrect. Please try again.</string>
+
+    <string name="long_url_title">Long Url Or Redirect Url:</string>
+    <string name="custom_url_title">Custom Branded Short Link:</string>
+
+
+    <string name="custom_url_title_hint">Key (food,pizza)</string>
+
+
+    <string name="show_area_title">Show Options</string>
+    <string name="hide_area_title">Hide Options</string>
+
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="tags">Tags:</string>
+
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="tags_hint">Tags (food,pizza)</string>
+
+    <string name="button_save">Save</string>
+
+    <string name="link_copy_button">Link Copy</string>
+    <string name="close_button">Close</string>
+
+
+    <string name="error_message">Something went wrong. Check the fields and try again.</string>
+    <string name="url_error_message">Invalid URI: The format of the URI could not be determined.</string>
+
+
+    <string name="exit_dialog_message">Are you sure you want to exit the application?</string>
+    <string name="exit_dialog_positive">Yes</string>
+    <string name="exit_dialog_negative">No</string>
+
+
+    <!--HistoryItem-->
+    <string name="short_link">Short Link:</string>
+    <string name="redirecing_url">Redirecing Url:</string>
+    <string name="create_date">Create Date:</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!--Filter-->
+    <string name="short_code">Short Code</string>
+    <string name="redirect_url">Redirect Url</string>
+    <string name="short_url">Short Url</string>
+    <string name="tagss">Tags</string>
+    <string name="filter_title">Filter</string>
+
+    <string name="no_record_text">No record found</string>
+
+
+    <string name="register_success_message">Confirmation email sent to confirm your account</string>
+
+    <string name="forgot_password_button">Send Reset Code</string>
+
+    <string name="forgot_code">Code</string>
+    <string name="change_pass">Change Password</string>
+
+    <string name="reset_pass_error">The Email field is required.</string>
+    <string name="error_reset_pass">Retry after one hour</string>
+
+    <string name="visit_count_desc">Referer: Language Code: </string>
+    <string name="visit_count_title">Short link visit history</string>
+
+    <string name="filter_start_date">Start Date</string>
+    <string name="filter_end_date">End Date</string>
+    <string name="filter_date_to">to</string>
+
+
+</resources>

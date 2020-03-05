@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/short_link"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/dialog_short_link"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/login_edittext_background"
+        android:gravity="center"
+        android:textColor="@color/blue"
+        android:textSize="16sp" />
+
+
+    <Button
+        android:id="@+id/copy_link_button"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/login_button_background"
+        android:text="@string/link_copy_button"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+
+    <Button
+        android:id="@+id/close_button"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/close_button_background"
+        android:text="@string/close_button"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+</LinearLayout>
